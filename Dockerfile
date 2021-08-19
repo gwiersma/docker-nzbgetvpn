@@ -46,7 +46,7 @@ RUN echo "deb http://deb.debian.org/debian/ unstable main" > /etc/apt/sources.li
     moreutils \
     net-tools \
     openresolv \
-    openvpn \
+    openvpn=2.4.7-1 \
     p7zip-full \
     par2 \
     procps \
